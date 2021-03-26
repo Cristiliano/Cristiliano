@@ -2,9 +2,9 @@
 - 👀 I’m interested in Programming, language is only tool
 - 🌱 I’m currently learning Flutter and interested in React from Full Stack
 - 📫 How to reach me: 
-     * [ Instagran ] >> @cristilianocn
-     * [ Email ]     >> cristilianocn@gmail.com
-     * [ LinkdIn ]   >> Cristiliano Negreiros
+     * [ Instagran ]->> @cristilianocn
+     * [ Email ]----->> cristilianocn@gmail.com
+     * [ LinkdIn ]--->> Cristiliano Negreiros
 
 <!---
 Cristiliano/Cristiliano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
