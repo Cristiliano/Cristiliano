@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cristiliano
 - 👀 I’m interested in Programming, language is just a tool
-- 🌱 I’m currently learning Flutter and interested in React from Full Stack
+- 🌱 I’m currently learning Full Stack Skills
 - 📫 How to reach me: 
      * [ Instagran ]->> @cristilianocn
      * [ Email ]----->> cristilianocn@gmail.com
